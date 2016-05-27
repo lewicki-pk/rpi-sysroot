@@ -70,7 +70,7 @@
 /* #undef CPPCMS_HAVE_GCRYPT */
 
 /* "Enable OpenSSL library */
-/* #undef CPPCMS_HAVE_OPENSSL */
+#define CPPCMS_HAVE_OPENSSL
 
 /* "Have std::wstring" */
 #define CPPCMS_HAVE_STD_WSTRING
