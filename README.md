@@ -3,6 +3,7 @@
 Based on `2016-05-10-raspbian-jessie-lite.img` with additional packages:
 * libboost-all-dev
 * libjsoncpp-dev
+* libssl-dev
 * omxplayer
 
 And manually installed:
