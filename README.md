@@ -1,6 +1,7 @@
 # rpi-sysroot
 
 Based on `2016-05-10-raspbian-jessie-lite.img` with additional packages:
+* g++-4.8 (compatible with "gcc-linaro-arm-linux-gnueabihf-raspbian")
 * libboost-all-dev
 * libjsoncpp-dev
 * libssl-dev
